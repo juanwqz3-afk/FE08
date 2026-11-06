@@ -1,0 +1,23 @@
+
+.grade {
+    display: grid;
+    
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 12px;
+    
+
+    margin: 20px auto;
+}
+
+
+.caixa {
+    background-color: #3498db; 
+    color: white;             
+    padding: 20px;             
+    text-align: center;        
+    font-size: 20px;         
+    font-family: sans-serif;
+    border-radius: 8px;        
+}
